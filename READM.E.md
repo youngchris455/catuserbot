@@ -39,7 +39,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # String
 
-https://replit.com/@JakuJaka/generatestringsession-1
+* String [Generate from here](https://replit.com/@JakuJaka/generatestringsession-1)
   
 ## Support
    <a href="https://t.me/catuserbotV2"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
