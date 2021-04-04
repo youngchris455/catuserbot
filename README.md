@@ -9,11 +9,11 @@
 <br>
 
 
-[![CodeFactor](https://www.codefactor.io/repository/github/Youngchris150/catuserbot/badge?&style=flat-square)](https://www.codefactor.io/repository/github/Youngchris150/catuserbot)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Youngchris150/catuserbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Youngchris150/catuserbot/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/Youngchris150/catuserbot?&style=flat-square&logo=github)
 [![GitHub license](https://img.shields.io/github/license/Youngchris150/catuserbot?&style=flat-square&logo=github)](https://github.com/Youngchris150/catuserbot/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Youngchris150/catuserbot?&style=flat-square&logo=github)](https://github.com/Youngchris150/catuserbot/issues)
 [![PR Open](https://img.shields.io/github/issues-pr/Youngchris150/catuserbot?&style=flat-square&logo=github)](https://github.com/Youngchris150/catuserbot/pulls)
 [![PR Closed](https://img.shields.io/github/issues-pr-closed/Youngchris150/catuserbot?&style=flat-square&logo=github)](https://github.com/Youngchris150/catuserbot/pulls?q=is:closed)
 [![GitHub contributors](https://img.shields.io/github/contributors/Youngchris150/catuserbot?&style=flat-square&logo=github)](https://GitHub.com/Youngchris150/catuserbot/graphs/contributors/)
